@@ -104,7 +104,7 @@ export default function ProductItemCard({ item }) {
                 </span>
               </p>
 
-              <button className='btn btn-danger btn-block btn-lg' disabled={!size} onClick={handleSubmitToCart}>В корзину</button>
+              <button className='btn btn-danger btn-block btn-lg' onClick={handleSubmitToCart}>В корзину</button>
             </>
           )
         }
