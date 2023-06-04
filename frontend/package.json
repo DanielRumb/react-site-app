@@ -4,17 +4,17 @@
   "private": true,
   "author": "",
   "dependencies": {
-    "connected-react-router": "*",
-    "history": "*",
-    "prop-types": "*",
-    "react": "*",
-    "react-dom": "*",
-    "react-media": "*",
-    "react-redux": "*",
-    "react-router-dom": "*",
-    "react-scripts": "*",
-    "redux": "*",
-    "redux-saga": "*"
+    "connected-react-router": "6.9.3",
+    "history": "5.3.0",
+    "prop-types": "15.8.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-media": "1.10.0",
+    "react-redux": "8.0.7",
+    "react-router-dom": "6.11.2",
+    "react-scripts": "5.0.1",
+    "redux": "4.2.1",
+    "redux-saga": "1.2.3"
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
